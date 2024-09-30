@@ -1,6 +1,7 @@
 ## Hello, world! 👋
-# Road Trip
-This weekend me and my buddies drove to Vancouver. We're currently on the way home while I'm doing this.
+#Goals for the week
+This week I want to familiarize myself with HTML more.
+
 <!--
 **EuanFitz/EuanFitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
