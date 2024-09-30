@@ -1,5 +1,5 @@
 ## Hello, world! 👋
-#Goals for the week
+# Goals for the week
 This week I want to familiarize myself with HTML more.
 
 <!--
