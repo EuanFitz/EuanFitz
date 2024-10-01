@@ -1,5 +1,5 @@
-## Hello, world! 👋
-# Goals for the week
+# Hello, world! 👋
+### Goals for the week
 This week I want to familiarize myself with HTML more.
 <p>I'd like tell you a little about myself. 💬</p>
 I'm a student at <a href="https://sait.ca"><b>SAIT</b></a>
