@@ -1,6 +1,7 @@
 ## Hello, world! 👋
 # Goals for the week
 This week I want to familiarize myself with HTML more.
+<p>I'd like tell you a little about myself. 💬</p>
 
 <!--
 **EuanFitz/EuanFitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
