@@ -1,14 +1,4 @@
 # Hello, world! 👋
-### Goals for the week
-This week I want to familiarize myself with HTML more.
-<p>I'd like tell you a little about myself. 💬</p>
-I'm a student at <a href="https://sait.ca"><b>SAIT</b></a>
-Im studying web design and development
-
-<img src="https://crown.edu.mm/wp-content/uploads/2021/07/Southern-Alberta-Institute-of-Technology-Logo.jpg" length="80" Width="100" alt="SAIT Logo">
-
-I really enjoy playing the guitar.🎸
-
 <!--
 **EuanFitz/EuanFitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
